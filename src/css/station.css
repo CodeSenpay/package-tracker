@@ -1,0 +1,10 @@
+.stationheader {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.stationheader h1 {
+  font-weight: bolder;
+  color: black;
+}
